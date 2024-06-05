@@ -1,6 +1,6 @@
 This is a Shadcn ui components library made with Tailwind CSS and Next.js.
 
-[Demo: https://shadcn-deliodiaz.vercel.app/](https://shadcn-deliodiaz.vercel.app/)
+Demo: [https://shadcn-deliodiaz.vercel.app/](https://shadcn-deliodiaz.vercel.app/)
 
 ## Getting Started
 
