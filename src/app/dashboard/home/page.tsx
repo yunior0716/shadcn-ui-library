@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div>
-      <h1>Hello Page</h1>
+      <h1>Shadcn/ui Library</h1>
     </div>
   );
 }
